@@ -169,3 +169,14 @@ position: relative;
     position: relative;
     width: 100%;
 }
+
+
+.gauche {
+    flex: 20; /* ou une largeur fixe, par ex: width: 60%; */
+    background-color: lightblue;
+  }
+  
+  .droite {
+    flex: 20; /* ou une largeur fixe, par ex: width: 35%; */
+    background-color: lightgreen;
+  }
